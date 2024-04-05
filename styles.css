@@ -1,0 +1,717 @@
+@import url('https://fonts.googleapis.com/css2?family=Madimi+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+*{
+       padding: 0%;
+       margin: 0%;
+       padding: 0%;
+}
+
+.section__home{
+       background: #ebb1b3;
+}
+.img__fondo-1 img{
+       width: 100%;
+}
+
+.section__main{
+       background: #f5ebe6;
+       display: flex;
+       align-items: center;
+}
+.img__fondo-2 img{
+       width: 100%;
+       margin-left: 100px;
+}
+
+.container__text{
+       margin-left: 200px;
+}
+
+.container__text h1{
+       margin-bottom: 70px;
+       font-size: 6rem;
+       color: #B84C65;
+       font-family: "Madimi One", sans-serif;
+       
+}
+
+.container__text .list{
+       background-color: #f7838d;
+       width: 70rem;
+       height: 30rem;
+       display: flex;
+       justify-content: flex-start;
+       align-items: center;
+       gap: 200px;
+       border-radius: 35px;
+       
+}
+
+.container__text .list .list-1{
+margin-left: 100px;
+}
+
+.container__text li{
+       font-size: 1.9rem;
+       margin-bottom: 10px;
+       font-family: "Madimi One", sans-serif;
+
+}
+
+.section__main-2{
+       display: flex;
+       align-items: center;
+       margin-top: 100px;
+}
+
+.section__main-2 .img__principal{
+       margin-left: 200px;
+}
+
+.section__main-2 .text{
+       display: flex;
+       flex-direction: column;
+       align-items: center;
+       margin-left: 300px;
+       font-family: "Indie Flower", cursive;
+       
+}
+
+.section__main-2 h1{
+       font-size: 120px;
+}
+.section__main-2 h2{
+       color: #B85858;
+       font-size: 45px;
+}
+
+.text img{
+       margin-top: 10px;
+       width: 200px;
+       
+}
+
+.indice{
+       font-size: 2rem;
+       margin-bottom: 10px;
+       font-family: "Madimi One", sans-serif;
+       display: flex;
+       align-items: center;
+       justify-content: center;
+       text-align: justify;
+       flex-direction: row;
+       background-color: #f5ebe6;
+}
+
+.indice ul{
+       margin: 200px;
+  list-style-position: inside;
+  
+}
+
+.indice img{
+       width: 400px;
+       display: flex;
+       justify-content: end;
+       align-items: center;
+}
+
+.introduccion{
+       display: flex;
+       align-items: center;
+       justify-content: center;
+       font-family: "Madimi One", sans-serif;
+       flex-direction: column;
+       text-align: justify;
+       font-size: 30px;
+       margin: 80px;
+       background-color: #f7838d;
+       border-radius: 30px;
+       padding: 10px;
+}
+
+.sintomatologia{
+       align-items: center;
+       justify-content: center;
+       font-family: "Madimi One", sans-serif;
+       flex-direction: column;
+       text-align: justify;
+       font-size: 30px;
+       margin: 80px;
+       margin-top: 200px;
+}
+
+.tabla{
+       font-family: "Madimi One", sans-serif;
+       font-size: 20px;
+       margin-top: 200px;
+       margin-bottom: 200px;
+}
+
+.objetivos{
+       align-items: center;
+       justify-content: center;
+       font-family: "Madimi One", sans-serif;
+       flex-direction: column;
+       text-align: justify;
+       font-size: 30px;
+       margin: 80px;
+       margin-top: 200px;
+}
+
+.objetivos ul{
+       list-style-position: inside;
+       }
+
+.tabla-2{
+       font-family: "Madimi One", sans-serif;
+       font-size: 20px;
+       margin-top: 200px;
+       margin-bottom: 200px;
+       }
+
+       .entrevista{
+              display: flex;
+              align-items: center;
+              justify-content: center;
+              flex-direction: column;
+              text-align: justify;
+              margin: 60px;
+              font-family: "Madimi One", sans-serif;
+              font-size: 30px;
+              gap: 20px;
+              background-color: #f7838db3;
+              border-radius: 20px;
+              padding: 25px;
+       }
+
+       .entrevista ul{
+              list-style-type: upper-roman;
+       }
+
+       .entrevista-2{
+              display: flex;
+              align-items: center;
+              justify-content: center;
+              flex-direction: column;
+              text-align: justify;
+              margin: 60px;
+              font-family: "Madimi One", sans-serif;
+              font-size: 30px;
+              gap: 20px;
+              background-color: #f7838db3;
+              border-radius: 20px;
+              padding: 35px;
+       }
+
+       .folleto{
+       font-family: "Madimi One", sans-serif;
+              display: flex;
+              align-items: center;
+              font-size: 24px;
+              margin: 80px;
+              margin-top: 200px;
+              margin-right: 10px;
+              
+       }
+       
+       .folleto img{
+              width: 1100px;
+              border-radius: 10px;
+              margin-left: 10px;
+       }
+
+       .tabla-texto{
+              display: flex;
+              text-align: justify;
+              align-items: center;
+              flex-direction: column;
+              justify-content: center;
+       font-family: "Madimi One", sans-serif;
+       margin: 0;
+       padding: 0;
+
+       }
+
+       .tabla-texto h3{
+              color: #B85858;
+       }
+
+       .tabla-texto h2,h3{
+              font-size: 30px;
+              padding: 10px;
+              text-align: center;
+              
+       }
+
+       .tecnica{
+              display: flex;
+              align-items: center;
+              flex-direction: column;
+              font-family: "Madimi One", sans-serif;
+              flex-direction: column;
+              text-align: center;
+              font-size: 30px;
+              margin: 80px;
+              margin-top: 50px;
+       }
+
+       .tecnica h2{
+              color: #ebb1b3;
+       }
+
+       .ventilacion{
+              display: flex;
+              align-items: center;
+              flex-direction: column;
+              font-family: "Madimi One", sans-serif;
+              flex-direction: column;
+              text-align: center;
+              font-size: 30px;
+              margin: 80px;
+              margin-top: 200px;
+              background-color: #f5ebe6;
+              border-radius: 20px;
+       }
+
+       .primeros{
+              display: flex;
+              align-items: center;
+              flex-direction: column;
+              font-family: "Madimi One", sans-serif;
+              flex-direction: column;
+              text-align: center;
+              font-size: 30px;
+              margin: 80px;
+              margin-top: 200px;
+       }
+
+       .orientacion{
+                     display: flex;
+                     align-items: center;
+                     flex-direction: column;
+                     font-family: "Madimi One", sans-serif;
+                     flex-direction: column;
+                     text-align: center;
+                     font-size: 30px;
+                     margin: 80px;
+                     margin-top: 200px;
+                     background-color: #f5ebe6;
+                     border-radius: 20px;
+       }
+
+       .referencias{
+              display: flex;
+              align-items: center;
+              flex-direction: column;
+              font-family: "Madimi One", sans-serif;
+              flex-direction: column;
+              text-align: center;
+              font-size: 30px;
+              margin: 80px;
+              margin-top: 200px;
+       }
+
+       .final{
+              display: flex;
+              align-items: center;
+              flex-direction: column;
+              font-family: "Madimi One", sans-serif;
+              flex-direction: column;
+              text-align: center;
+              font-size: 30px;
+              margin: 80px;
+              margin-top: 200px;
+              background-color: #f5ebe6;
+              border-radius: 20px;
+              font-style: italic;
+}
+
+
+
+     @media only screen and (min-width: 768px) and (max-width: 1199px) {
+       /* Estilos específicos para tablets aquí */
+       .section__main{
+              flex-direction: column;
+       }
+       .img__fondo-2 img{
+              width: 220px;
+              margin-left: 19px;
+       }
+       
+       .container__text{
+              margin-left: 0px;
+              display: flex;
+              align-items: center;
+              flex-direction: column;
+
+              
+       }
+       
+       .container__text h1{
+              margin-bottom: 70px;
+              font-size: 70px;
+              
+       }
+       
+       .container__text .list{
+              width: 42rem;
+              height: 15rem;
+              gap: 10px;
+              margin-bottom: 20px;
+              
+       }
+       
+       .container__text .list .list-1{
+       margin-left: 10px;
+       }
+       
+       .container__text li{
+              font-size: 15px;
+              margin-bottom: 10px;
+              font-family: "Madimi One", sans-serif;
+       
+       }
+
+
+
+       .section__main-2{
+              display: flex;
+              align-items: center;
+              margin-top: 100px;
+              flex-direction: column;
+
+       }
+       
+       .section__main-2 .img__principal{
+              margin-left: 0px;
+       }
+       
+       .section__main-2 .img__principal img{
+              width: 300px;
+       }
+
+       .section__main-2 .text{
+              margin-left: 0px;
+              
+       }
+       
+       .section__main-2 h1{
+              font-size: 56px;
+       }
+       .section__main-2 h2{
+              font-size: 20px;
+       }
+       
+       .text img{
+              margin-top: 10px;
+              width: 100px;
+              
+       }
+
+       .indice{
+              font-size: 20px;
+              margin-bottom: 10px;
+              font-family: "Madimi One", sans-serif;
+              display: flex;
+              align-items: center;
+              justify-content: center;
+              text-align: justify;
+              
+              background-color: #f5ebe6;
+       }
+       
+       .indice ul{
+              margin: 50px;
+         list-style-position: inside;
+         
+       }
+       .indice img{
+              width: 200px;
+       }
+
+       .introduccion{
+              font-size: 20px;
+              margin: 30px;
+       }
+
+       .sintomatologia{
+              font-size: 20px;
+              margin: 30px;
+       }
+
+       .tabla{
+              font-size: 20px;
+              margin-top: 100px;
+              margin-bottom: 100px;
+       }
+
+       .objetivos{
+              font-size: 20px;
+              margin: 30px;
+       }
+
+       .tabla-2{
+              font-size: 20px;
+              margin-top: 100px;
+              margin-bottom: 100px;
+       }
+
+       .entrevista{
+              font-size: 20px;
+              margin: 30px;
+       }
+
+       .entrevista-2{
+              font-size: 20px;
+              margin: 30px;
+       }
+
+       .folleto{
+              flex-direction: column;
+              
+       }
+       .folleto img{
+              margin-top: 30px;
+              width: 800px;
+       }
+
+       .tabla-texto h2, h3{
+              font-size: 20px;
+       }
+
+       .tecnica{
+              font-size: 20px;
+       }
+       .tecnica img{
+              width: 600px;
+       }
+
+       .ventilacion{
+              font-size: 20px;
+       }
+       .ventilacion img{
+              width: 600px;
+       }
+
+       .primeros{
+              font-size: 20px;
+       }
+       .primeros img{
+              width: 600px;
+       }
+
+       .orientacion{
+              font-size: 20px;
+       }
+       .orientacion img{
+              width: 600px;
+       }
+
+       .referencias{
+              font-size: 20px;
+       }
+       
+       .final{
+              font-size: 20px;
+       }
+       .final img{
+              width: 600px;
+       }
+     }
+     
+     
+
+     @media only screen and (max-width: 767px) {
+       /* Estilos específicos para móviles aquí */
+       .section__main{
+              flex-direction: column;
+       }
+       .img__fondo-2 img{
+              width: 150px;
+              margin-left: 19px;
+       }
+       
+       .container__text{
+              margin-left: 0px;
+              display: flex;
+              align-items: center;
+              flex-direction: column;
+
+              
+       }
+       
+       .container__text h1{
+              margin-bottom: 70px;
+              font-size: 50px;
+              
+       }
+       
+       .container__text .list{
+              width: 22rem;
+              height: 14rem;
+              gap: 10px;
+              margin-bottom: 20px;
+              
+       }
+       
+       .container__text .list .list-1{
+       margin-left: 10px;
+       }
+       
+       .container__text li{
+              font-size: 10px;
+              margin-bottom: 3px;
+              font-family: "Madimi One", sans-serif;
+       
+       }
+
+
+       .section__main-2{
+              display: flex;
+              align-items: center;
+              margin-top: 100px;
+              flex-direction: column;
+
+       }
+       
+       .section__main-2 .img__principal{
+              margin-left: 0px;
+       }
+       
+       .section__main-2 .img__principal img{
+              width: 300px;
+       }
+
+       .section__main-2 .text{
+              margin-left: 0px;
+              
+       }
+       
+       .section__main-2 h1{
+              font-size: 56px;
+       }
+       .section__main-2 h2{
+              font-size: 20px;
+       }
+       
+       .text img{
+              margin-top: 10px;
+              width: 100px;
+              
+       }
+
+       .indice{
+              font-size: 20px;
+              margin-bottom: 10px;
+              font-family: "Madimi One", sans-serif;
+              display: flex;
+              align-items: center;
+              justify-content: center;
+              text-align: justify;
+              flex-direction: column;
+              background-color: #f5ebe6;
+       }
+       
+       .indice ul{
+              margin: 50px;
+         list-style-position: inside;
+       }
+       .indice img{
+              width: 200px;
+       }
+
+       .introduccion{
+              font-size: 20px;
+              margin: 30px;
+       }
+
+       .sintomatologia{
+              font-size: 20px;
+              margin: 30px;
+       }
+
+       .tabla{
+              font-size: 14px;
+              margin-top: 100px;
+              margin-bottom: 100px;
+       }
+
+       .objetivos{
+              font-size: 20px;
+              margin: 30px;
+       }
+
+       .tabla-2{
+              font-size: 14px;
+              margin-top: 100px;
+              margin-bottom: 100px;
+       }
+
+       .entrevista{
+              font-size: 20px;
+              margin: 30px;
+       }
+
+       .entrevista-2{
+              font-size: 20px;
+              margin: 30px;
+       }
+
+       .folleto{
+              flex-direction: column;
+              font-size: 15px;
+              padding: 10px;
+              margin: 0;
+              align-items: center;
+              
+       }
+       .folleto img{
+              margin-top: 30px;
+              width: 340px;
+       }
+
+       .tabla-texto h2, h3{
+              font-size: 17px;
+       }
+
+       .tecnica{
+              font-size: 20px;
+       }
+       .tecnica img{
+              width: 400px;
+       }
+
+       .ventilacion{
+              font-size: 20px;
+       }
+       .ventilacion img{
+              width: 400px;
+       }
+
+       .primeros{
+              font-size: 20px;
+       }
+       .primeros img{
+              width: 400px;
+       }
+
+       .orientacion{
+              font-size: 20px;
+       }
+       .orientacion img{
+              width: 400px;
+       }
+
+       .referencias{
+              font-size: 20px;
+       }
+
+       .final{
+              font-size: 20px;
+       }
+       .final img{
+              width: 400px;
+       }
+     }
+     
